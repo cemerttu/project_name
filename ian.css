@@ -1,0 +1,21 @@
+.main-wrapper .box-one{
+    border: 3px solid red;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-items: column;
+}
+.box-one.box-two.box-three, h1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #ccc;
+    background-color: blue;
+    display: flex;
+
+}
+.box-one,
+.box-two,
+.box-three, h1{
+    color: red;
+}
+
